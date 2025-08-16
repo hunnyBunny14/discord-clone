@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  /* FONT FAMILY */
+  --font-whitney: "Whitney", "Inter", "Poppins", sans-serif;
+  --font-ginto: "Ginto", "Montserrat", "Poppins", sans-serif;
+  --font-ggsans: "ggSans", "Nunito", "Segoe UI", sans-serif;
+}
+
