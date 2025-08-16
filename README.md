@@ -17,7 +17,7 @@ This project is part of my web development journey and showcases **clean UI desi
 ![Desktop Preview](./images/desktop.png)  
 
 ### 📱 Mobile View  
-![Mobile Preview](./images/mobile.png)  
+![Mobile Preview](./images/mobile.jpg)  
 
 ---
 
