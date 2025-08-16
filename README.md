@@ -14,10 +14,10 @@ This project is part of my web development journey and showcases **clean UI desi
 ## 📸 Screenshots  
 
 ### 🖥️ Desktop View  
-![Desktop Preview](./screenshots/desktop.png)  
+![Desktop Preview](./images/desktop.png)  
 
 ### 📱 Mobile View  
-![Mobile Preview](./screenshots/mobile.png)  
+![Mobile Preview](./images/mobile.png)  
 
 ---
 
